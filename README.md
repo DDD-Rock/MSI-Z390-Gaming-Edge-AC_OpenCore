@@ -16,9 +16,9 @@
 主板：MSI Z390 Gaming Edge AC
 CPU：i7-9700k
 显卡：AMD RX6800XT 樱瞳花嫁
-内存：英睿达 DDR4 4300 C17 8G*2
+内存：英睿达 DDR4 4300 8G*2
 固态：Asgard AS2 2TB
-网卡：BCM94360CD 蓝牙和wifi免驱（板载Intel无线网卡已物理卸载了）
+网卡：BCM94360CD 蓝牙和wifi免驱（板载Intel无线网卡无解，已物理卸载）
 BIOS版本：7B17vA7
 ```
 
